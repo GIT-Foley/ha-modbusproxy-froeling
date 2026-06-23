@@ -1,5 +1,5 @@
 {
-  "name": "Modbus Proxy Repository",
-  "url": "https://github.com/Akulatraxas/ha-modbusproxy",
+  "name": "Modbus Proxy Repository (Fröling Fork)",
+  "url": "https://github.com/DEIN-USERNAME/ha-modbusproxy",
   "maintainer": "Julian Jost <julian@jost-online.eu>"
 }
